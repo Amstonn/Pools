@@ -1,5 +1,7 @@
 .vscode/
-build/CMakeFiles
+build/CMakeFiles/
 *.json
 .vscode
 .git/
+*.json
+**/CMakeFiles/
